@@ -1,4 +1,4 @@
-# 🎮 Pong Game
+# 🎮 Pong0 Game
 
 Welcome to the **Pong Game** built with Python and Streamlit! 🎉
 This is a simple, interactive version of the classic Pong game where two players can control paddles and compete to score points. It features a dynamic ball movement, paddle collisions, and scoring system. Let's dive into the world of retro gaming in a modern, easy-to-play style!
